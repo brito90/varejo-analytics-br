@@ -38,3 +38,17 @@ Manipulação de Dados: Pandas, NumPy
 Visualização: Plotly Express, Matplotlib
 Ambiente de Execução: Google Colab (GPU/TPU ready)
 Controle de Versão: Git & GitHub
+
+🏃 Como Executar
+Não é necessária instalação local. O projeto foi desenhado para rodar nativamente na nuvem:
+
+Clique no botão "Open in Colab" (se disponível) ou baixe o arquivo .ipynb.
+
+Acesse Google Colab.
+
+Faça o upload do notebook.
+
+Execute a célula única (Run All). O script gerará os dados, processará as informações e renderizará os gráficos interativos em menos de 30 segundos.
+
+👤 Sobre o Autor
+Kauan Santiago Desenvolvedor Full-Stack | Especialista em IA e Otimização de Sistemas Focado em transformar dados brutos em vantagem competitiva através de arquitetura de software limpa e análise preditiva.
